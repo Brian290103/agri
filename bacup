@@ -1,0 +1,270 @@
+
+    <header class="hero">
+        <div class="wrapper"></div>
+        <div class="banner">
+            <h1 class="">Welcome to
+                <span class="">Farm.</span>
+            </h1>
+            <p class="">Discover the future of sustainable agriculture with our innovative farming solutions. From
+                organic produce to advanced farming techniques, we are dedicated to providing fresh, healthy, and
+                sustainable food for everyone.</p>
+            <button class="button">Read More</button>
+        </div>
+    </header>
+
+
+    <section class="section-1">
+        <div class="wrapper">
+            <article class="left">
+                <div class="image-wrapper">
+                    <img src="./images/05.jpg" alt="Best Farming Practices" class="">
+                </div>
+            </article>
+
+            <article class="right">
+                <div class="">
+                    <h1 class="">Best Farming Practices</h1>
+                    <p class="p-1">
+                        Discover the most effective and sustainable farming techniques that boost productivity and
+                        maintain ecological balance. Our practices are designed to provide the highest quality produce
+                        while preserving the environment.
+                    </p>
+
+                    <div class="row">
+                        <div class="">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M8.25 6.75C8.25 4.67893 9.92893 3 12 3C14.0711 3 15.75 4.67893 15.75 6.75C15.75 8.82107 14.0711 10.5 12 10.5C9.92893 10.5 8.25 8.82107 8.25 6.75Z"
+                                    fill="#0F172A" />
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M15.75 9.75C15.75 8.09315 17.0931 6.75 18.75 6.75C20.4069 6.75 21.75 8.09315 21.75 9.75C21.75 11.4069 20.4069 12.75 18.75 12.75C17.0931 12.75 15.75 11.4069 15.75 9.75Z"
+                                    fill="#0F172A" />
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M2.25 9.75C2.25 8.09315 3.59315 6.75 5.25 6.75C6.90685 6.75 8.25 8.09315 8.25 9.75C8.25 11.4069 6.90685 12.75 5.25 12.75C3.59315 12.75 2.25 11.4069 2.25 9.75Z"
+                                    fill="#0F172A" />
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M6.30986 15.1175C7.50783 13.2444 9.60835 12 12 12C14.3919 12 16.4927 13.2447 17.6906 15.1182C18.5187 16.4134 18.877 17.9752 18.709 19.4979C18.6827 19.7359 18.5444 19.947 18.3368 20.0662C16.4694 21.1376 14.3051 21.75 12 21.75C9.69492 21.75 7.53059 21.1376 5.66325 20.0662C5.45559 19.947 5.3173 19.7359 5.29103 19.4979C5.12293 17.9749 5.48141 16.4129 6.30986 15.1175Z"
+                                    fill="#0F172A" />
+                                <path
+                                    d="M5.08228 14.2537C5.07024 14.2722 5.05827 14.2907 5.04638 14.3093C4.08091 15.8189 3.63908 17.6167 3.77471 19.389C3.16667 19.2967 2.5767 19.1481 2.01043 18.9487L1.89547 18.9082C1.68576 18.8343 1.53923 18.6439 1.52159 18.4222L1.51192 18.3007C1.50402 18.2014 1.5 18.1011 1.5 18C1.5 15.9851 3.08905 14.3414 5.08228 14.2537Z"
+                                    fill="#0F172A" />
+                                <path
+                                    d="M20.2256 19.389C20.3612 17.617 19.9196 15.8196 18.9545 14.3102C18.9424 14.2913 18.9303 14.2725 18.9181 14.2537C20.9111 14.3416 22.5 15.9853 22.5 18C22.5 18.1011 22.496 18.2014 22.4881 18.3007L22.4784 18.4222C22.4608 18.6439 22.3142 18.8343 22.1045 18.9082L21.9896 18.9487C21.4234 19.1481 20.8336 19.2966 20.2256 19.389Z"
+                                    fill="#0F172A" />
+                            </svg>
+                        </div>
+                        <p class="">
+                            Our commitment to excellence ensures that we use only the best practices for soil health,
+                            crop management, and livestock care, resulting in nutritious and delicious food.
+                        </p>
+                    </div>
+
+                    <ul class="">
+                        <li class="">
+                            Implementing advanced irrigation systems to conserve water.
+                        </li>
+                        <li class="">
+                            Using organic fertilizers to enrich the soil naturally.
+                        </li>
+                        <li class="">
+                            Adopting crop rotation and companion planting to enhance yield and soil health.
+                        </li>
+                    </ul>
+
+                    <div class="">
+                        <button class="button">Read More</button>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </section>
+
+
+    <section class="section-2">
+        <div class="wrapper">
+            <div class="">
+                <h1 class="">Trusted by Over 20,000 Partners</h1>
+                <p class="">
+                    Join a community of over 20,000 partners who trust us for their farming needs. From small family
+                    farms to large agricultural enterprises, we provide the tools and support to help you succeed.
+                    Experience the benefits of our innovative solutions and dedicated service.
+                </p>
+
+                <ul class="">
+                    <li class="">
+                        <img src="./images/logos/01.svg" alt="" class="">
+                    </li>
+                    <li class="">
+                        <img src="./images/logos/02.svg" alt="" class="">
+                    </li>
+                    <li class="">
+                        <img src="./images/logos/03.svg" alt="" class="">
+                    </li>
+                    <li class="">
+                        <img src="./images/logos/04.svg" alt="" class="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section class="section-3">
+        <div class="wrapper">
+            <h1 class="">Important Aspects of Farming</h1>
+            <p class="">Farming is a multifaceted field that requires attention to several crucial factors to ensure a
+                successful and sustainable agricultural practice.</p>
+            <ul class="">
+                <li class="">
+                    <img src="./images/08.jpg" alt="Proper Irrigation" class="">
+                    <h1 class="">Proper Irrigation</h1>
+                    <p class="">Effective irrigation is essential for providing crops with the right amount of water at
+                        the right times. This ensures healthy growth and maximizes yield while conserving water
+                        resources.</p>
+                </li>
+                <li class="">
+                    <img src="./images/09.jpg" alt="Checking Disease in Crops" class="">
+                    <h1 class="">Checking Disease in Crops</h1>
+                    <p class="">Regular monitoring and management of crop diseases are vital to prevent significant
+                        losses. Early detection and treatment can safeguard the health of your crops and ensure a
+                        bountiful harvest.</p>
+                </li>
+                <li class="">
+                    <img src="./images/10.jpg" alt="Collaborating and Sharing Information" class="">
+                    <h1 class="">Collaborating and Sharing Information</h1>
+                    <p class="">Collaboration and knowledge sharing among farmers, researchers, and agricultural experts
+                        enhance farming techniques and practices. This collective effort drives innovation and promotes
+                        sustainable agriculture.</p>
+                </li>
+            </ul>
+        </div>
+
+    </section>
+
+
+    <section class="section-4">
+        <div class="wrapper">
+            <article class="">
+                <h1 class="">Meet our Leadership</h1>
+                <p class="">Our dedicated leadership team combines expertise and passion to drive our vision of
+                    sustainable and innovative agriculture. Get to know the people who are leading our mission.</p>
+            </article>
+
+            <article class="right">
+                <ul class="">
+                    <li class="">
+                        <div class="image-wrapper">
+                            <img src="./images/profiles/profile-1.jpg" alt="Laura Martinez" class="profile">
+                        </div>
+                        <div class="">
+                            <h4 class="">
+                                John Smith
+                            </h4>
+                            <span class="">
+                                Co-Founder / CEO
+                            </span>
+                        </div>
+                    </li>
+                    <li class="">
+                        <div class="image-wrapper">
+                            <img src="./images/profiles/profile-2.jpg" alt="Laura Martinez" class="profile">
+                        </div>
+                        <div class="">
+                            <h4 class="">
+                                Emily Johnson
+                            </h4>
+                            <span class="">
+                                Chief Operating Officer
+                            </span>
+                        </div>
+                    </li>
+                    <li class="">
+                        <div class="image-wrapper">
+                            <img src="./images/profiles/profile-3.jpg" alt="Laura Martinez" class="profile">
+                        </div>
+                        <div class="">
+                            <h4 class="">
+                                Michael Brown
+                            </h4>
+                            <span class="">
+                                Chief Technology Officer
+                            </span>
+                        </div>
+                    </li>
+                    <li class="">
+                        <div class="image-wrapper">
+                            <img src="./images/profiles/profile-4.jpg" alt="Laura Martinez" class="profile">
+                        </div>
+                        <div class="">
+                            <h4 class="">
+                                Sarah Davis
+                            </h4>
+                            <span class="">
+                                Chief Financial Officer
+                            </span>
+                        </div>
+                    </li>
+                    <li class="">
+                        <div class="image-wrapper">
+                            <img src="./images/profiles/profile-5.jpg" alt="Laura Martinez" class="profile">
+                        </div>
+                        <div class="">
+                            <h4 class="">
+                                David Wilson
+                            </h4>
+                            <span class="">
+                                Chief Marketing Officer
+                            </span>
+                        </div>
+                    </li>
+                    <li class="">
+                        <div class="image-wrapper">
+                            <img src="./images/profiles/profile-6.jpg" alt="Laura Martinez" class="profile">
+                        </div>
+                        <div class="">
+                            <h4 class="">
+                                Laura Martinez
+                            </h4>
+                            <span class="">
+                                Head of Research and Development
+                            </span>
+                        </div>
+                    </li>
+                </ul>
+            </article>
+        </div>
+
+    </section>
+    <section class="section-5">
+        <div class="wrapper">
+            <div class="content">
+                <h1 class="hero-title">
+                    Sustainable Agriculture for a Thriving Future
+                </h1>
+                <p class="hero-description">
+                    Discover the power of sustainable farming practices and high-quality agricultural products
+                    to nourish your community.
+                </p>
+                <div class="">
+
+                    <button class="button">Contact US</button>
+                </div>
+
+            </div>
+            <div class="image">
+
+                <img src="./images/11.jpg" alt="Hero Image" class="hero-image">
+            </div>
+        </div>
+    </section>
+
+    <footer class="">
+        <div class="left">
+            <p class="">
+                &copy; Farm.
+            </p>
+        </div>
+        <div class="right">
+            <p class="">All rights reserved</p>
+        </div>
+    </footer>
